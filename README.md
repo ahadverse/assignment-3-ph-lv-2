@@ -18,4 +18,4 @@ Simple SQL assignment: 3 tables (`Users`, `Matches`, `Bookings`) + 7 queries.
 ## Links
 
 - ERD: https://drive.google.com/file/d/1cjUlg33MfZeVgyfEE3sj0LW1niaR2RPv/view?usp=sharing
-- Video: _add link_
+- Video: https://drive.google.com/file/d/1T2nnjy20B-MJoc8Oi9hOF05f_JMVVFOM/view?usp=drive_link
